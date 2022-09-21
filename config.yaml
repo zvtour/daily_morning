@@ -8,10 +8,10 @@ CITY: "贵州"
 BIRTHDAY:
   - "08-04"
 
-APP_ID: "粥粥专属的"
-APP_SECRET: "粥粥专属的"
+APP_ID: "wxcf901b1714e68cf1"
+APP_SECRET: "dc152b366c209850fb3c74500a311626"
 
 USER_ID: 
-  - "微信公众平台的 USER ID"
+  - "owRo26N7s-M74BeDtLh2uGONGH4A"
   - "USER ID 2" # 你可以通过配置多个USER_ID来设置多个接受者，如果接受者只有一人删除本行即可
-TEMPLATE_ID: "微信公众平台的 TEMPLATE ID"
+TEMPLATE_ID: "MpN0Mc9fys1VgRcHj6sSQO0UY8RcuiVn-LNV_eUTNxo"
