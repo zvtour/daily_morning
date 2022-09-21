@@ -2,14 +2,14 @@
 
 DAILY_TIME: "14:00" # 每日定时发送时间。该时间为系统时间，如果当前系统时间不为北京时间需要自行进行换算
 
-START_DATE: "2020-05-20" # 纪念日
-CITY: "北京"
+START_DATE: "2018-02-03" # 纪念日
+CITY: "贵州"
 
 BIRTHDAY:
-  - "05-21"
+  - "08-04"
 
-APP_ID: "微信公众平台的 APP ID"
-APP_SECRET: "微信公众平台的 APP SECRET"
+APP_ID: "粥粥专属的"
+APP_SECRET: "粥粥专属的"
 
 USER_ID: 
   - "微信公众平台的 USER ID"
